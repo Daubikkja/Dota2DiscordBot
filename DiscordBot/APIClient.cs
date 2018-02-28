@@ -1,4 +1,5 @@
-﻿using System;
+//This is used to pull data from the steams API and return a string with match statistics to the caller as a big string
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
