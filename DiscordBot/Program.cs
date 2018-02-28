@@ -29,7 +29,7 @@ namespace DiscordBot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string botToken = "DISCOR API KEY HERE"; //Token/APIkey
+            string botToken = "DISCORD API KEY HERE"; //Token/APIkey
 
             //event subscrition
             _client.Log += Log;
