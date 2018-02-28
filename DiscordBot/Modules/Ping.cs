@@ -11,7 +11,7 @@ namespace DiscordBot.Modules
         [Command("ping")]
         public async Task PingAsync()
         {
-            await ReplyAsync("Hello wolrd!");
+            await ReplyAsync("Hello world!");
         }
     }
 }
