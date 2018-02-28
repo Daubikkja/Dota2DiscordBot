@@ -24,4 +24,4 @@ Dot.Net Core https://www.microsoft.com/net/learn/get-started/windows
 
 ## Authors
 
-* **Daniel Kollstrand** - [Deadhound](https://github.com/)
+* **Daniel Kollstrand** - [Daubikkja](https://github.com/Daubikkja)
