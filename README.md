@@ -6,6 +6,8 @@ This is a text-bot for discord that posts stats from dota 2 matches through the 
 
 When the bot is running use "!dota 2 [mathcID]"
 
+[mathcID] being the integer for the mathc you want. Can not take matches that are older than 2 weeks, as after 2 weeks they are no longer on valves servers
+
 The bot will then return stats from the match which you can brag about to your friends.
 
 ### Prerequisites
